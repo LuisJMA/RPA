@@ -1,0 +1,10 @@
+PARA: +1234567890
+FECHA: 2026-04-13 03:43:48.703774
+======================================================================
+
+IMÁGENES ENVIADAS:
+   📷 reportes_imagenes/1_ventas_por_sede.png
+   📷 reportes_imagenes/2_top_5_modelos.png
+   📷 reportes_imagenes/3_canales_ventas.png
+   📷 reportes_imagenes/4_segmentos_clientes.png
+   📷 reportes_imagenes/5_dashboard_resumen.png

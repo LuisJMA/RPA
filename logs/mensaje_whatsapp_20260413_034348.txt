@@ -1,0 +1,47 @@
+PARA: +51XXXXXXXXX
+FECHA: 2026-04-13 03:43:48.701784
+======================================================================
+
+
+╔══════════════════════════════════════════════════════╗
+║     📊 REPORTE RPA - ANÁLISIS DE VENTAS 📊            ║
+╚══════════════════════════════════════════════════════╝
+
+📅 13/04/2026 03:43
+
+📈 MÉTRICAS PRINCIPALES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Ventas totales: 14,209
+• Clientes únicos: 14,146
+• Total sin IGV: S/ 413.1M
+• Total con IGV: S/ 487.4M
+
+🏢 VENTAS POR SEDE (Top 3):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Santiago de Surco: S/ 240.9M
+• Ate: S/ 69.2M
+• San Miguel: S/ 69.1M
+
+🚗 TOP 3 MODELOS MÁS VENDIDOS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• GENESIS: 499 und
+• SANTA FE: 482 und
+• XL7: 476 und
+
+📢 TOP 5 CANALES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• CRM: 1728
+• Llamado en frío: 1641
+• Newsletter: 1593
+• Email en frío: 1591
+• Publicidad en la radio: 1578
+
+👥 SEGMENTO DE CLIENTES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Empresa: 12.9%
+• Persona: 87.1%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤖 Reporte generado automáticamente por RPA
+🏫 Universidad Rafael Urdaneta - IA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
