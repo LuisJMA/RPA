@@ -1,0 +1,83 @@
+# ============================================
+# ENTORNO VIRTUAL
+# ============================================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================================
+# CREDENCIALES Y SECRETOS
+# ============================================
+*credenciales*
+*secretos*
+config.py
+
+# ============================================
+# ARCHIVOS GENERADOS POR EL RPA
+# ============================================
+datos/datos_preparados.xlsx
+datos/datos_preparados_corregido.xlsx
+datos/metricas_calculadas.xlsx
+datos/info_dataset.xlsx
+reporte_analisis.txt
+resultados_rpa.xlsx
+resultados_rpa_para_comparar.xlsx
+Ventas_Corregido.xlsx
+
+# ============================================
+# LOGS Y REPORTES TEMPORALES
+# ============================================
+logs/
+*.log
+*.txt
+!requirements.txt
+!README.md
+
+# ============================================
+# EDITORES Y IDE
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+
+# ============================================
+# ARCHIVOS DE RESPALDO
+# ============================================
+*.bak
+*.backup
+*.old
+*.orig
+
+# ============================================
+# JUPYTER (si usaste)
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# MYPY (type checking)
+# ============================================
+.mypy_cache/
+.dmypy.json
+dmypy.json
